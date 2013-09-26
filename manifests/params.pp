@@ -13,6 +13,8 @@
 #
 class mcollective::params {
 
+  # foo
+  
   $mc_topicprefix       = '/topic/'
   $mc_main_collective   = 'mcollective'
   $mc_collectives       = ''
